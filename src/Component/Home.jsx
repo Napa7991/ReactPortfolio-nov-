@@ -35,10 +35,10 @@ const Home = ({homeRef,contactRef,scrollToSection}) => {
             </button>
           </div>
           <div id="icons">
-            <a href="www.linkedin.com/in/tailangnapa" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/tailangnapa/" target="_blank" rel="noopener noreferrer">
               <FontAwesomeIcon icon={faLinkedin} size="2x" />
             </a>
-            <a href="https://github.com/your-username" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/Napa7991" target="_blank" rel="noopener noreferrer">
               <FontAwesomeIcon icon={faGithub} size="2x" />
             </a>
           </div>
