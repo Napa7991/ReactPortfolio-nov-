@@ -46,10 +46,7 @@ const About = ({ aboutRef }) => {
             </div>
             <div className="aboutPart2">
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Veritatis atque eius maiores et ullam, sunt hic voluptate minima
-                molestiae ducimus iusto facilis eaque facere quia. Facere harum
-                quidem dolore deserunt!
+              Hello there! 👋 I'm Tailang Napa, a passionate and creative individual with a keen interest in Frontend Development. As a enthusiat developer I bring a fresh perspective and a hunger to learn and grow in the dynamic world of web development.
               </p>
             </div>
           </div>
