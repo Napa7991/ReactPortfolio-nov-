@@ -45,7 +45,7 @@ const Projects = ({ projectRef }) => {
           <div className="projectCard">
             <div className="pCard1">
               <img
-                src="./assets/project2.png"
+                src="./assets/project3.png"
                 alt="error"
                 className="project1"
               />
@@ -55,7 +55,7 @@ const Projects = ({ projectRef }) => {
               <div className="btn-container">
                 <button className="btn btn-CV">
                   <a
-                    href="https://github.com/Napa7991/Tic-Tac-Toe.git"
+                    href="https://github.com/Napa7991/weatherApi.git"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -65,7 +65,7 @@ const Projects = ({ projectRef }) => {
                 </button>
                 <button className="btn btn-info">
                   <a
-                    href="https://tic-tac-toe-napa.netlify.app/"
+                    href="https://weather-napa.vercel.app/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
